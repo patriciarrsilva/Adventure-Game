@@ -10,4 +10,4 @@ Download the zip or clone the directory to your computer and, from inside the di
 
 > #**MadeWithUdacity**
 
-(as a part of a _Intro to Programming Nanodegree Program_ free trial - __not reviewed__)
+(as a part of the _Intro to Programming Nanodegree Program_ free trial - __not reviewed__)
